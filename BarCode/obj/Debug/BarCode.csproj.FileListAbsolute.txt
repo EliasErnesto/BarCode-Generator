@@ -1,0 +1,14 @@
+C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\bin\Debug\BarCode.exe.config
+C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\bin\Debug\BarCode.exe
+C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\bin\Debug\BarCode.pdb
+C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\bin\Debug\BarcodeLib.dll
+C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\bin\Debug\MetroFramework.dll
+C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\obj\Debug\BarCode.Generador.resources
+C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\obj\Debug\BarCode.Properties.Resources.resources
+C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\obj\Debug\BarCode.csproj.GenerateResource.Cache
+C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\obj\Debug\BarCode.exe
+C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\obj\Debug\BarCode.pdb
+C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\bin\Debug\BarCode.exe.manifest
+C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\bin\Debug\BarCode.application
+C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\obj\Debug\BarCode.exe.manifest
+C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\obj\Debug\BarCode.application
