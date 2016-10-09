@@ -10,6 +10,5 @@ C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\obj\Release\BarC
 C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\obj\Release\BarCode.pdb
 C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\bin\Release\BarCode.exe.manifest
 C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\bin\Release\BarCode.application
-C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\obj\Release\BarCode.csprojResolveAssemblyReference.cache
 C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\obj\Release\BarCode.exe.manifest
 C:\Users\Sudoku\Documents\Proyectos\Aprendizaje\BarCode\BarCode\obj\Release\BarCode.application
